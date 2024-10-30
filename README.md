@@ -68,7 +68,7 @@ This project is a personal finance tracker application built using Python and St
 - **Matplotlib:** Library for creating visualizations.
 
 ### Screenshots (Optional)
-![Screenshot of Expenses Tracker](link_to_screenshot)
+![Screenshot of Expenses Tracker](image1.png)
 
 ### Contact Information
 For any inquiries or feedback, please contact me at [atharvapersonal@gmail.com].
